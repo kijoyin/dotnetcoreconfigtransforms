@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTransforms", "ArrayTransforms\ArrayTransforms.csproj", "{E51A7B01-2844-4858-AD89-8F93C9AC2781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E51A7B01-2844-4858-AD89-8F93C9AC2781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51A7B01-2844-4858-AD89-8F93C9AC2781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51A7B01-2844-4858-AD89-8F93C9AC2781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51A7B01-2844-4858-AD89-8F93C9AC2781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED9219B-8648-45CF-8D9F-A0C9F5AC9436}
+	EndGlobalSection
+EndGlobal
